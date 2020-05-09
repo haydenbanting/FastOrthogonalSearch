@@ -1,0 +1,22 @@
+<Inputs>
+    <!--
+    Add as many inputs you wish here. A FOS model will be produced for the
+    system for every input listed here.
+    -->
+    
+    <!--
+    <Input>
+        <Type>wgn</Type>
+        <NumSamples>3000</NumSamples>
+        <TimeStep>1</TimeStep>
+    </Input>
+    -->
+    
+    <Input>
+        <Type>sinusoid</Type>
+        <NumSamples>3000</NumSamples>
+        <TimeStep>1e-1</TimeStep>
+    </Input>
+    
+</Inputs>
+

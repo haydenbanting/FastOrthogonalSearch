@@ -1,0 +1,17 @@
+<System>
+    <!--
+    System description goes here. Only one system description can be given.
+    -->
+    <Type>diffeq</Type>
+    <Parameters>
+        <P>5</P>
+    </Parameters>
+    <!--
+    <Type>lnl</Type>
+    <Parameters>
+        <P>0</P>
+        <I>2</I>
+    </Parameters>
+    -->
+</System>
+

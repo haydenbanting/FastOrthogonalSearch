@@ -1,0 +1,9 @@
+<Model>
+    <Order>3</Order>
+    <Lmax>5</Lmax>
+    <Kmax>5</Kmax>
+    <Mmax>10</Mmax>
+    <TrainingVariations>5</TrainingVariations>
+    <eps>1e-10</eps>
+</Model>
+
